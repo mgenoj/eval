@@ -1,0 +1,2 @@
+cd magnusscope/frontend
+npx create-react-app .

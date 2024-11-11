@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+motor
+pymongo
+passlib[bcrypt]
+python-jose[cryptography]
+python-dotenv
+langchain
+langgraph
+scikit-learn
+nltk
